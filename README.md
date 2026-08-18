@@ -28,7 +28,7 @@
 
 ## 📫 Contact
 - GitHub：[github.com/fhfdd](https://github.com/fhfdd)
-- website：[https://fhfdd.github.io]（https://fhfdd.github.io）
+- website：https://fhfdd.github.io/
 
 ---
 <div align="center">
