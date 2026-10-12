@@ -1,5 +1,5 @@
 ## 👋 About Me
-每天主要是尽孝米卡莎之余幻想自己学会了什么
+什麽都學點
 
 ## 🛠️ Tech Stack
 <div align="center">
